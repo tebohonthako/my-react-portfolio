@@ -207,10 +207,6 @@ img {
 
 /* For small devices */
 @media screen and (max-width: 350px) {
-  :root {
-    --big-font-size: 2.25rem;
-  }
-
   .container {
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
