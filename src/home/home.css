@@ -3,6 +3,9 @@
     padding-top: 5.5rem;
     column-gap: 2rem;
 }
+.home__container {
+    row-gap: 7rem;
+}
 
 .home__social {
     display: grid;
@@ -48,7 +51,7 @@
 }
 
 .home__img {
-    background: url(.././assets/profile.jpg);
+    background: url(.././assets/teboo.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -69,5 +72,20 @@
     }
     100% {
         border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
+    }
+}
+.home__scroll {
+    margin-left: 9.25rem;
+}
+.wheel {
+    animation: scroll 2s ease infinite;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateY(0);
+    }
+    30% {
+        transform: translateY(3.75rem);
     }
 }
