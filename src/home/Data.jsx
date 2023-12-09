@@ -3,7 +3,7 @@ import React from 'react'
 const Data = () => {
   return (
    <div className="home__data">
-    <h1 className="home__title">Teboho Nthako
+    <h1 className="home__title">Teboho N
     <svg
                   width="36"
                   height="36"
@@ -54,11 +54,11 @@ const Data = () => {
                   ></path>
                 </svg>
     </h1>
-    <h3>
+    <h3> -----
         Front-end Developer
     </h3>
     <p className="home__description">
-        I am a React Front-end developer based in South Africa, Johannesburg. <br/> I love comining the worlds of logic & creative design to make beautiful, accessible and user-friendly web applications.
+        I am a React Front-end developer based in South Africa, Johannesburg. <br/> I love combining the worlds of logic & creative design to make beautiful, accessible and user-friendly web applications.
     </p>
     <a href="#contact" className="button button--flex">
         Say Hello

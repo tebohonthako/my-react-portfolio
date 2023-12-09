@@ -14,6 +14,10 @@ const Social = () => {
        <a href="https://github.com/tebohonthako" className="home__social-icon" target="_blank">
         <i class="uil uil-github"></i>
        </a>
+
+       <a href="https://twitter.com/tebooo_n" className="home__social-icon" target="_blank">
+       <i class="uil uil-twitter"></i>
+       </a>
     </div>
   )
 }
