@@ -8,18 +8,18 @@
     row-gap: 7rem;
     
 }
-
-
 .home__social {
     display: grid;
     grid-template-columns: max-content;
     row-gap: 1rem;
     padding-bottom: 18rem;
     margin-top: 7rem;
+    
 }
 .home__social-icon {
     font-size: 1.5rem;
     color: var(--title-color);
+    
 
 }
 .home__social-icon:hover {
@@ -56,7 +56,7 @@
 }
 
 .home__img {
-    background: url(.././assets/teboo.jpeg);
+    background: url(/src/assets/teboo.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -160,9 +160,6 @@
         display: none;
     }
     
-  }
-  
-  @media screen and (max-width: 576px) {
   }
   
   /* For small devices */
