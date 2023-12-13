@@ -15,14 +15,9 @@ const About = () => {
             <div className="about__data">
                 <Info/>
                 <p className="about__desscription">
-                    Front-end Developer, 
                     I am a dynamic and passionate front-end developer with 1 year of professional experience, 
                     currently serving as a Junior Developer at Melsoft, a forward-thinking tech startup. <br/> 
-                    My journey in tech began with a 6-month intensive bootcamp in full-stack development, where 
-                    I not only honed my skills but also transitioned from a background in Biological Sciences to 
-                    the vibrant world of technology. <br/> 
-                    This unique path has equipped me with a diverse perspective and an eagerness to innovate.
-                    I am deeply committed to continuous learning and growth in the tech industry. 
+                    I have experience working on full-stack projects in the following teck stack: Javascript, Typescript, React, Nodejs, Redux, APIs, SQL and Firebase.   
                 </p>
                 <a download="" href={CV} className="button button--flex">
                     Download CV
