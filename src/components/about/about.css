@@ -68,7 +68,7 @@ text-align: center;
   /* For medium devices */
   @media screen and (max-width: 768px) {
     .about__info {
-        grid-template-columns: var(3, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         
        }
        .about__description {
@@ -81,7 +81,9 @@ text-align: center;
   
   /* For small devices */
   @media screen and (max-width: 350px) {
-   
+   .about__info {
+    grid-template-columns: repeat(2. 1fr);
+   }
   }
   
   
