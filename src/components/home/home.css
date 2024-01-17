@@ -9,6 +9,7 @@
 #say-hello {
   background-color: #c3195d;
 }
+
 .home__social {
   display: grid;
   grid-template-columns: max-content;
@@ -64,6 +65,15 @@
   width: 350px;
   height: 350px;
   animation: profile__animate 8s ease-in-out infinite 1s;
+}
+.bx-spin,
+.bx-flashing,
+.bxl-typescript,
+.bxl-firebase,
+.bxl-html5,
+.bxl-css3,
+.bxl-nodejs {
+  font-size: 3rem;
 }
 
 @keyframes profile__animate {

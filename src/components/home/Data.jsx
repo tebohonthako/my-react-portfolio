@@ -11,6 +11,15 @@ const Data = () => {
         accessible and user-friendly web applications and recently venturing in
         mobile applications with React-native .
       </p>
+      <div>
+        <i class="bx bxl-react bx-spin"></i>
+        <i class="bx bxl-javascript bx-flashing"></i>
+        <i class="bx bxl-typescript"></i>
+        <i class="bx bxl-firebase bx-tada"></i>
+        <i class="bx bxl-html5"></i>
+        <i class="bx bxl-css3"></i>
+        <i class="bx bxl-nodejs bx-fade-right"></i>
+      </div>
       <a href="#contact" className="button button--flex" id="say-hello">
         Say Hello
         <svg
