@@ -1,3 +1,25 @@
-#apple_store_img {
-  width: 600px;
+.portfolio {
+  background-color: #fee8e6;
+}
+
+.portfolio__container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.portfolio__item {
+  text-align: center;
+}
+
+.portfolio__img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+#ios-calculator {
+  width: 20;
+  max-width: 80%;
+  height: 20;
 }

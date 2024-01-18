@@ -32,6 +32,10 @@
   font-weight: var(--font-medium);
   transition: 0.3s;
 }
+.uil,
+.nav__item {
+  color: #c3195d;
+}
 
 .nav__close,
 .nav__toggle {
