@@ -20,6 +20,14 @@ const Portfolio = () => {
               className="portfolio__img"
             />
           </a>
+          <p>
+            Tech stack:{" "}
+            <ul>
+              <li>React </li>
+              <li> Javascript</li>
+              <li>State management</li>
+            </ul>
+          </p>
         </div>
 
         <div className="portfolio__item">
@@ -36,6 +44,7 @@ const Portfolio = () => {
               id="ios-calculator"
             />
           </a>
+          <p>Tech stack: Javascript</p>
         </div>
 
         <div className="portfolio__item">
@@ -47,11 +56,12 @@ const Portfolio = () => {
             <h3>React MovieLand</h3>
             <br />
             <img
-              src="src/assets/movieland.png"
+              src="https://yt3.googleusercontent.com/ytc/AIf8zZQKCG8w7wVznj9sHhrHge3cKYVuUblDUuOaUp_psQ=s900-c-k-c0x00ffffff-no-rj"
               alt="MovieLand App"
               className="portfolio__img"
             />
           </a>
+          <p>Tech stack: React and RESTful API</p>
         </div>
       </div>
     </section>
