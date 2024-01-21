@@ -23,3 +23,7 @@
   max-width: 80%;
   height: 20;
 }
+h3:hover {
+  color: #c3195d;
+  cursor: grab;
+}
