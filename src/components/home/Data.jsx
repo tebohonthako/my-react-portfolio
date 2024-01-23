@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">Teboho Nthako</h1>
-      <h3>Full-stack React Developer</h3>
+      <h3>Full-stack Developer</h3>
       <p className="home__description">
         I am a React developer based in Johannesburg, South Africa. <br /> I
         love combining the worlds of logic & creative design to make beautiful,

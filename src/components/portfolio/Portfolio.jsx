@@ -20,31 +20,42 @@ const Portfolio = () => {
               className="portfolio__img"
             />
           </a>
-          <p>
-            Tech stack:{" "}
-            <ul>
-              <li>React </li>
-              <li> Javascript</li>
-              <li>State management</li>
-            </ul>
-          </p>
+          <p>Tech stack: React Javascript State management</p>
+          <b>
+            <a
+              href="https://github.com/tebohonthako/apple-store"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github repo
+            </a>
+          </b>
         </div>
 
         <div className="portfolio__item">
           <a
-            href="https://tebohonthako.github.io/my-calculator/"
+            href="https://tebohonthako.github.io/ticket-station-added-the-ticket-form/"
             target="_blank"
             rel="noreferrer"
           >
-            <h3>iOS Calculator clone</h3> <br />
+            <h3>Music Festival Ticketstation</h3> <br />
             <img
-              src="https://help.apple.com/assets/6525D505752940BC7C002221/6525D5095058A5A6C00A05B9/en_US/e726abd62a7d08749d3a882889cdc78d.png"
-              alt="iOS calculator clone"
+              src="https://tebohonthako.github.io/ticket-station-added-the-ticket-form/images/artists/jcole.webp"
+              alt="ticektstation for music event"
               className="portfolio__img"
               id="ios-calculator"
             />
           </a>
-          <p>Tech stack: Javascript</p>
+          <p>Tech stack: Vanilla Javascript, Bootstrap & OOP </p>
+          <b>
+            <a
+              href="https://github.com/tebohonthako/ticket-station-added-the-ticket-form"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github repo
+            </a>
+          </b>
         </div>
 
         <div className="portfolio__item">
@@ -62,6 +73,67 @@ const Portfolio = () => {
             />
           </a>
           <p>Tech stack: React and RESTful API</p>
+          <b>
+            <a
+              href="https://github.com/tebohonthako/my_first_react_app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github repo
+            </a>
+          </b>
+        </div>
+
+        <div className="portfolio__item">
+          <a
+            href="https://nientjie94.github.io/DevQuiz"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <h3>Dev Quiz game</h3> <br />
+            <img
+              src="https://www.shutterstock.com/shutterstock/photos/2052894734/display_1500/stock-vector-quiz-and-question-marks-trivia-night-quiz-symbol-neon-sign-night-online-game-with-questions-2052894734.jpg"
+              alt="quiz game"
+              className="portfolio__img"
+              id="ios-calculator"
+            />
+          </a>
+          <p>Tech stack: Vanilla Javascript</p>
+          <b>
+            <a
+              href="https://github.com/tebohonthako/DevQuiz-1"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github repo
+            </a>
+          </b>
+        </div>
+
+        <div className="portfolio__item">
+          <a
+            href="https://teboho-nthako-portfolio-2024.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <h3>My portfolio</h3> <br />
+            <img
+              src="https://media.istockphoto.com/id/903044512/vector/user-icon-vector-with-laptop-computer-female-person-profile-avatar-for-business-and-online.jpg?s=612x612&w=0&k=20&c=iLtKPgwQGblmh9pOgJxVDepyCYyxYnV29j5WEP28rOo="
+              alt="my react portfolio"
+              className="portfolio__img"
+              id="ios-calculator"
+            />
+          </a>
+          <p>Tech stack: React Javascript ES6 Component-based</p>
+          <b>
+            <a
+              href="https://github.com/tebohonthako/my-react-portfolio"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github repo
+            </a>
+          </b>
         </div>
       </div>
     </section>
