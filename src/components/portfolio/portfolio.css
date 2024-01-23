@@ -18,6 +18,11 @@
   height: auto;
   border-radius: 8px;
 }
+.portfolio__img:hover {
+  cursor: auto;
+  transform: scale(1.1);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
 #ios-calculator {
   width: 20;
   max-width: 80%;

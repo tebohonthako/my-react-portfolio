@@ -20,7 +20,11 @@ const Data = () => {
         <i class="bx bxl-css3"></i>
         <i class="bx bxl-nodejs bx-fade-right"></i>
       </div>
-      <a href="#contact" className="button button--flex" id="say-hello">
+      <a
+        href={`mailto:${"tjaynthako@gmail.com"}`}
+        className="button button--flex"
+        id="say-hello"
+      >
         Say Hello
         <svg
           class="button__icon"
