@@ -18,6 +18,7 @@ const Data = () => {
         <i class="bx bxl-firebase bx-tada"></i>
         <i class="bx bxl-html5"></i>
         <i class="bx bxl-css3"></i>
+        <i class="bx bxl-figma bx-flashing"></i>
         <i class="bx bxl-nodejs bx-fade-right"></i>
       </div>
       <a
