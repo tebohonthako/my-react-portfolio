@@ -19,8 +19,8 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__desscription">
-            I am a dynamic and passionate developer with ~1 year of professional
-            experience, currently serving as a Junior Developer at Melsoft, a
+            I am a dynamic and passionate developer with professional
+            experience, currently serving as a Junior Developer at a
             forward-thinking tech startup. <br />I have experience working on
             full-stack projects in the following teck stack: Javascript,
             Typescript, React, Redux, RESTful APIs, SQL, Node, Testing and
